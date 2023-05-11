@@ -1,0 +1,233 @@
+{
+  "users": [
+    {
+      "name": "kiwi",
+      "email": "kiwi@a.com",
+      "id": 3
+    },
+    {
+      "name": "fruit",
+      "email": "fruit@a.com",
+      "id": 5
+    },
+    {
+      "name": "ram",
+      "email": "ram@a.com",
+      "id": 8
+    },
+    {
+      "name": "ram",
+      "email": "ram@a.com",
+      "id": 9
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "javascriptsssss",
+      "writer": "pushpaa"
+    },
+    {
+      "name": "sython",
+      "writer": "cobra",
+      "id": 3
+    },
+    {
+      "name": "javascript",
+      "writer": "guido",
+      "id": 4
+    },
+    {
+      "name": "himanshu",
+      "writer": "gba",
+      "id": 5
+    },
+    {
+      "name": "logo ko chutiya banana",
+      "writer": "bagheshwer dham",
+      "id": 6
+    },
+    {
+      "name": "kiwi",
+      "writer": "dham",
+      "id": 7
+    },
+    {
+      "name": "kiwi",
+      "writer": "cobra",
+      "id": 8
+    },
+    {
+      "name": "gdh",
+      "writer": "dfb",
+      "id": 9
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 21
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "writer": "",
+      "id": 23
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+{
+  "chair": [
+    {
+      "name": "chair",
+      "id": 1,
+      "price":2
+    }
+  ],
+    "sofa": [
+    {
+      "id": 1,
+      "name": "sofa",
+      "price":"5"
+    },
+
+  
+  ],
+    "plate": [
+    {
+      "id": 1,
+      "name": "plate",
+      "price":5
+    },
+
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "decoration":[
+    {
+      "chair":[
+       { "name":"chair",
+      "id" :1,
+      "price":2
+      }
+      ]
+    },
+    {
+      "sofa":[
+       { "name":"sofa",
+      "id" :1,
+      "price":5
+      }
+      ]
+    },
+    {
+      "plate":[
+       { "name":"plate",
+      "id" :1,
+      "price":2
+      }
+      ]
+    },
+    {
+      "plate":[
+       { "name":"plastic",
+      "id" :1,
+      "price":2
+      }
+      ]
+    }
+  ]
+}
